@@ -16,5 +16,5 @@ List of useful talks, courses, articles etc. about Recompose.js library
 1. [Examples from Tim Kindberg egghead.io course] (https://github.com/timkindberg/egghead-recompose)
 
 ## Playgrounds by API
-1. lifecycle()
+#### [lifecycle](https://github.com/acdlite/recompose/blob/master/docs/API.md#lifecycle)
   - https://codepen.io/Kiwka/pen/POKbMW
