@@ -13,8 +13,8 @@ List of useful talks, courses, articles etc. about Recompose.js library
 1. [Top 5 Recompose HOCs](https://medium.com/@abhiaiyer/top-5-recompose-hocs-1a4c9cc4566)
 
 ## Examples
-1. [Examples from Tim Kindberg egghead.io course] (https://github.com/timkindberg/egghead-recompose)
+1. [Examples from Tim Kindberg egghead.io course](https://github.com/timkindberg/egghead-recompose)
 
-## Playgrounds by API
+## Playgrounds for API funcitons
 #### [lifecycle](https://github.com/acdlite/recompose/blob/master/docs/API.md#lifecycle)
   - https://codepen.io/Kiwka/pen/POKbMW
